@@ -1,0 +1,42 @@
+            #############################################################
+            #---------------Welcome to City Mapping v.0.5---------------#
+            # Created by : Rabbit Tank                                  #
+            # --- 1. Adityawarman F.                                    #
+            # --- 2. Deni Pramulia                                      #
+            # --- 3. Nafi Cahya F.                                      #
+            #                                                           #
+            # ----------------------- Update Log -----------------------#
+            # 5.0 (25/11/2017) :                                        #
+            # - Accessing file CityMapping.java to Custom.java          #
+            # - Add more code in Custom.java                            #
+            # - Handle some issues and bugs                             #
+            # - Easy view map with some input                           #
+            #                                                           #
+            # 4.0 (24/11/2017) :                                        #
+            # - Add generator map for river                             #
+            # - Fix some bugs and issues                                #
+            # - Simplify code generator map for mall                    #
+            # - Simplify code generator map and read map                #
+            # - Delete map_gen                                          #
+            # - Combining generator map, mall, and river in 1 file      #
+            #                                                           #
+            # 3.0 (20/11/2017) :                                        #
+            # - Add generator map for mall                              #
+            # - Fix some bugs                                           #
+            # - Handle some issues (out of bound in city mapping)       #
+            #                                                           #
+            # 2.0 (15/11/2017) :                                        #
+            # - Change location for output map_gen (custom mapping)     #
+            # - Directly open file welcome.txt in folder txt            #
+            # - Directly open file about.txt in folder txt              #
+            # - Directly open file help.txt in folder txt               #
+            # - Add map for express Mapping                             #
+            # - Repair some bugs                                        #
+            #                                                           #
+            # 1.0 (13/11/2017) :                                        #
+            # - add main class                                          #
+            # - add directory file for custom, express, txt             #
+            # - add map generator                                       #
+            #                                                           #
+            #                                                           #
+            #############################################################

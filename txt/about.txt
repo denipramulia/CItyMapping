@@ -1,0 +1,10 @@
+            
+            #############################################################
+            #-----------------About City Mapping v.0.5------------------#
+            # Created by : Rabbit Tank                                  #
+            # --- 1. Adityawarman F.                                    #
+            # --- 2. Deni Pramulia                                      #
+            # --- 3. Nafi Cahya F.                                      #
+            #                                                           #
+            # Copyright 2017 by Rabbit Tank Sistem Cerdas - Fasilkom UI #
+            #############################################################

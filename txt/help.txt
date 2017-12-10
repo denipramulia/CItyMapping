@@ -1,0 +1,10 @@
+            
+            #############################################################
+            # Some Help Using This Program                              #
+            # - Make sure your input isn't out of bound (< 0,not number)#
+            # - Dont Give big numbers! (can explode your harddisk)      #
+            # --- 10000 x 10000 size map = +- 190 MB for 1 file output! #
+            # - Read Carefully in command                               #
+            # - Program automatically stop if something error happens   #
+            # - If you find some bugs, contact us!                      #
+            #############################################################
