@@ -19,7 +19,7 @@ public class Custom {
         String[][] map = new String[x][y];
         for (int i = 0; i < x; i++) {
             for (int j = 0; j < y; j++) {
-                map[i][j] = "#";
+                map[i][j] = ".";
             }
         }
 
